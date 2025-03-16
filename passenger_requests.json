@@ -1,0 +1,122 @@
+[
+    {
+        "id": "ff1dd60a-8b93-4a25-8aa1-058bf40671cd",
+        "vendor_id": 2,
+        "pickup_datetime": "2025-03-16T21:11:25.464139",
+        "passenger_count": 2,
+        "pickup_longitude": -3.610393,
+        "pickup_latitude": 40.336669,
+        "dropoff_longitude": -3.703716,
+        "dropoff_latitude": 40.488569,
+        "vehicle_type": "Economy",
+        "fare_estimate": 25.36
+    },
+    {
+        "id": "cc6e5134-5730-4717-a550-03817b225283",
+        "vendor_id": 3,
+        "pickup_datetime": "2025-03-16T21:11:25.464346",
+        "passenger_count": 1,
+        "pickup_longitude": -3.600997,
+        "pickup_latitude": 40.345571,
+        "dropoff_longitude": -3.72291,
+        "dropoff_latitude": 40.33415,
+        "vehicle_type": "Standard",
+        "fare_estimate": 19.65
+    },
+    {
+        "id": "f0a608b9-9513-4afc-8ba0-a1119cf28cac",
+        "vendor_id": 3,
+        "pickup_datetime": "2025-03-16T21:11:25.464534",
+        "passenger_count": 3,
+        "pickup_longitude": -3.697209,
+        "pickup_latitude": 40.389272,
+        "dropoff_longitude": -3.73874,
+        "dropoff_latitude": 40.312145,
+        "vehicle_type": "Economy",
+        "fare_estimate": 14.12
+    },
+    {
+        "id": "e0d2b838-09e6-4285-95ab-849a7ba99f0b",
+        "vendor_id": 3,
+        "pickup_datetime": "2025-03-16T21:11:25.464720",
+        "passenger_count": 3,
+        "pickup_longitude": -3.607878,
+        "pickup_latitude": 40.395265,
+        "dropoff_longitude": -3.633386,
+        "dropoff_latitude": 40.474995,
+        "vehicle_type": "Standard",
+        "fare_estimate": 17.67
+    },
+    {
+        "id": "176500f6-d343-4576-80c3-71609d45705d",
+        "vendor_id": 1,
+        "pickup_datetime": "2025-03-16T21:11:25.464936",
+        "passenger_count": 1,
+        "pickup_longitude": -3.627774,
+        "pickup_latitude": 40.339947,
+        "dropoff_longitude": -3.674578,
+        "dropoff_latitude": 40.495027,
+        "vehicle_type": "Economy",
+        "fare_estimate": 24.21
+    },
+    {
+        "id": "f1e242d2-04ab-428c-8029-e746b471ebc0",
+        "vendor_id": 3,
+        "pickup_datetime": "2025-03-16T21:11:25.465138",
+        "passenger_count": 1,
+        "pickup_longitude": -3.604743,
+        "pickup_latitude": 40.424242,
+        "dropoff_longitude": -3.687368,
+        "dropoff_latitude": 40.32317,
+        "vehicle_type": "Economy",
+        "fare_estimate": 18.88
+    },
+    {
+        "id": "e317b679-0b6e-4a9c-8400-75a22f9a95a0",
+        "vendor_id": 1,
+        "pickup_datetime": "2025-03-16T21:11:25.465337",
+        "passenger_count": 3,
+        "pickup_longitude": -3.713042,
+        "pickup_latitude": 40.480159,
+        "dropoff_longitude": -3.61092,
+        "dropoff_latitude": 40.490248,
+        "vehicle_type": "Luxury",
+        "fare_estimate": 28.83
+    },
+    {
+        "id": "9d9cf49f-98d2-40ae-b873-80b63af813ea",
+        "vendor_id": 2,
+        "pickup_datetime": "2025-03-16T21:11:25.465529",
+        "passenger_count": 4,
+        "pickup_longitude": -3.68442,
+        "pickup_latitude": 40.421116,
+        "dropoff_longitude": -3.631712,
+        "dropoff_latitude": 40.485032,
+        "vehicle_type": "Economy",
+        "fare_estimate": 13.07
+    },
+    {
+        "id": "f7dc8ce0-a20e-4f52-8c7d-e42c4f85ab91",
+        "vendor_id": 2,
+        "pickup_datetime": "2025-03-16T21:11:25.465721",
+        "passenger_count": 3,
+        "pickup_longitude": -3.646626,
+        "pickup_latitude": 40.391043,
+        "dropoff_longitude": -3.608548,
+        "dropoff_latitude": 40.378529,
+        "vehicle_type": "Standard",
+        "fare_estimate": 9.28
+    },
+    {
+        "id": "4befae32-232f-4e67-9f9c-da4b565e89c7",
+        "vendor_id": 1,
+        "pickup_datetime": "2025-03-16T21:11:25.465946",
+        "passenger_count": 4,
+        "pickup_longitude": -3.738525,
+        "pickup_latitude": 40.372867,
+        "dropoff_longitude": -3.732916,
+        "dropoff_latitude": 40.332417,
+        "vehicle_type": "Luxury",
+        "fare_estimate": 18.29
+    }
+]
