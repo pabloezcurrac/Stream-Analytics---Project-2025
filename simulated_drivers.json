@@ -1,0 +1,362 @@
+[
+  {
+    "driver_id": "9620334e-f65b-41b0-ba56-8fecdf94175b",
+    "driver_name": "Ainara del Becerra",
+    "vehicle_type": "Luxury",
+    "location": {
+      "latitude": 40.44897,
+      "longitude": -3.757095
+    },
+    "status": "busy",
+    "shift_start": 6,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "9daf3e53-3471-4ced-82f2-1184811e4dcf",
+    "driver_name": "Victorino Cantero-Esparza",
+    "vehicle_type": "Electric",
+    "location": {
+      "latitude": 40.460984,
+      "longitude": -3.71205
+    },
+    "status": "busy",
+    "shift_start": 0,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "23f18b97-3c3b-4ce6-b103-61f0db435052",
+    "driver_name": "Luis de Collado",
+    "vehicle_type": "Electric",
+    "location": {
+      "latitude": 40.429317,
+      "longitude": -3.776433
+    },
+    "status": "busy",
+    "shift_start": 12,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "51ad6a24-34bd-4807-881b-2de936e2442a",
+    "driver_name": "Vicente Lillo",
+    "vehicle_type": "XL",
+    "location": {
+      "latitude": 40.459346,
+      "longitude": -3.75407
+    },
+    "status": "busy",
+    "shift_start": 6,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "ded5c187-21dc-4f8f-b100-3518f57e3e27",
+    "driver_name": "Eugenia de Pag\u00e8s",
+    "vehicle_type": "Electric",
+    "location": {
+      "latitude": 40.396412,
+      "longitude": -3.676921
+    },
+    "status": "busy",
+    "shift_start": 6,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "6a8a0b00-d7e9-42ff-8eb9-af14c653bf28",
+    "driver_name": "W\u00e1lter Ram\u00f3n Clavero",
+    "vehicle_type": "Standard",
+    "location": {
+      "latitude": 40.379138,
+      "longitude": -3.65151
+    },
+    "status": "busy",
+    "shift_start": 6,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "56b824ac-880d-4dcc-aab0-81e805a64675",
+    "driver_name": "Jimena Barriga Arenas",
+    "vehicle_type": "XL",
+    "location": {
+      "latitude": 40.344202,
+      "longitude": -3.656984
+    },
+    "status": "busy",
+    "shift_start": 18,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "ff836de0-87aa-4368-b3d9-b6ee78f31a8f",
+    "driver_name": "Rufino Infante Contreras",
+    "vehicle_type": "Electric",
+    "location": {
+      "latitude": 40.472328,
+      "longitude": -3.741909
+    },
+    "status": "busy",
+    "shift_start": 18,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "d7a951c0-a8b2-4153-aecb-23fe3abcfb32",
+    "driver_name": "Andr\u00e9s Felipe Gabald\u00f3n Carrasco",
+    "vehicle_type": "Standard",
+    "location": {
+      "latitude": 40.370398,
+      "longitude": -3.742108
+    },
+    "status": "busy",
+    "shift_start": 12,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "ae50f951-26e5-43ae-9cc4-c001e460b553",
+    "driver_name": "Modesto Le\u00f3n Samper",
+    "vehicle_type": "Standard",
+    "location": {
+      "latitude": 40.463439,
+      "longitude": -3.715248
+    },
+    "status": "busy",
+    "shift_start": 0,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "b8921ae1-13e7-4232-a836-077ac0934e65",
+    "driver_name": "Ana Sof\u00eda Palomino Ramos",
+    "vehicle_type": "XL",
+    "location": {
+      "latitude": 40.426121,
+      "longitude": -3.660473
+    },
+    "status": "busy",
+    "shift_start": 12,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "24ebcb13-8270-473b-ac04-b21e441b573d",
+    "driver_name": "Anabel Sanjuan Ram\u00f3n",
+    "vehicle_type": "Electric",
+    "location": {
+      "latitude": 40.350904,
+      "longitude": -3.684281
+    },
+    "status": "busy",
+    "shift_start": 6,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "31778513-dff8-4c3b-a690-55dbe3a2da7e",
+    "driver_name": "Marianela Carrillo",
+    "vehicle_type": "XL",
+    "location": {
+      "latitude": 40.357698,
+      "longitude": -3.779794
+    },
+    "status": "busy",
+    "shift_start": 18,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "ec8ab73a-05b3-4288-8888-8c71048e2ecd",
+    "driver_name": "Sonia Bonilla-\u00c1ngel",
+    "vehicle_type": "Electric",
+    "location": {
+      "latitude": 40.495196,
+      "longitude": -3.698582
+    },
+    "status": "busy",
+    "shift_start": 12,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "ca510471-afe8-4cab-b9b4-ca6e46c42c0f",
+    "driver_name": "Daniela El\u00edas Soriano",
+    "vehicle_type": "XL",
+    "location": {
+      "latitude": 40.440102,
+      "longitude": -3.658269
+    },
+    "status": "busy",
+    "shift_start": 6,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "61f69b82-d23d-423f-a7f9-c52a2687b742",
+    "driver_name": "Benigna Barrag\u00e1n Parra",
+    "vehicle_type": "Standard",
+    "location": {
+      "latitude": 40.348387,
+      "longitude": -3.698653
+    },
+    "status": "busy",
+    "shift_start": 0,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "addfe107-a85b-47d6-8eb9-da60ef2d2f92",
+    "driver_name": "Remigio Albero D\u00e1vila",
+    "vehicle_type": "Standard",
+    "location": {
+      "latitude": 40.435631,
+      "longitude": -3.720688
+    },
+    "status": "busy",
+    "shift_start": 12,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "64ea1715-0655-412d-9a9f-b66c438086d1",
+    "driver_name": "Armida Cabrera Oliva",
+    "vehicle_type": "Electric",
+    "location": {
+      "latitude": 40.447537,
+      "longitude": -3.782739
+    },
+    "status": "busy",
+    "shift_start": 12,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "80604292-4915-4d6b-8762-6d62f1cef55b",
+    "driver_name": "Graciano Arsenio Pallar\u00e8s Mel\u00e9ndez",
+    "vehicle_type": "Luxury",
+    "location": {
+      "latitude": 40.360577,
+      "longitude": -3.667989
+    },
+    "status": "busy",
+    "shift_start": 18,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "9e07c5a3-255d-492c-a9e7-f587b5ddebbc",
+    "driver_name": "Perlita Bar\u00f3n Figuerola",
+    "vehicle_type": "XL",
+    "location": {
+      "latitude": 40.461005,
+      "longitude": -3.757096
+    },
+    "status": "busy",
+    "shift_start": 0,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "137bfabf-dcca-43cb-8b56-95542925254d",
+    "driver_name": "Telmo Ca\u00f1izares Lago",
+    "vehicle_type": "XL",
+    "location": {
+      "latitude": 40.461571,
+      "longitude": -3.698337
+    },
+    "status": "busy",
+    "shift_start": 12,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "e2382dec-81de-49e5-a642-045b5e7c69f4",
+    "driver_name": "Tania Alfonso",
+    "vehicle_type": "Standard",
+    "location": {
+      "latitude": 40.383041,
+      "longitude": -3.747823
+    },
+    "status": "busy",
+    "shift_start": 6,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "d500c88f-084e-4db3-800a-ef16cabbf841",
+    "driver_name": "Abel Figueroa Amo",
+    "vehicle_type": "Electric",
+    "location": {
+      "latitude": 40.488342,
+      "longitude": -3.757657
+    },
+    "status": "busy",
+    "shift_start": 18,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "58b509b8-a49f-49ec-8ebb-c5917240eebd",
+    "driver_name": "Joaqu\u00edn del Robledo",
+    "vehicle_type": "Luxury",
+    "location": {
+      "latitude": 40.367902,
+      "longitude": -3.710837
+    },
+    "status": "busy",
+    "shift_start": 6,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "3c7b488c-8d25-401e-aed1-31508fbfd5eb",
+    "driver_name": "\u00c1gueda del Cisneros",
+    "vehicle_type": "Electric",
+    "location": {
+      "latitude": 40.439979,
+      "longitude": -3.706137
+    },
+    "status": "busy",
+    "shift_start": 0,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "a1a08969-a8ea-4fde-b011-1878779cc97b",
+    "driver_name": "Alfonso Llamas Esparza",
+    "vehicle_type": "Electric",
+    "location": {
+      "latitude": 40.425218,
+      "longitude": -3.632186
+    },
+    "status": "busy",
+    "shift_start": 12,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "9a068ca7-6610-4a06-937e-56912161a801",
+    "driver_name": "Tere Edelmira Castell\u00f3 Lloret",
+    "vehicle_type": "Luxury",
+    "location": {
+      "latitude": 40.460321,
+      "longitude": -3.691737
+    },
+    "status": "busy",
+    "shift_start": 18,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "70d43909-77a5-4037-bbd3-8e59ea7dece3",
+    "driver_name": "Noelia Castell\u00f3 Huertas",
+    "vehicle_type": "Electric",
+    "location": {
+      "latitude": 40.479348,
+      "longitude": -3.718165
+    },
+    "status": "busy",
+    "shift_start": 6,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "02616586-ab40-4b57-9949-ab205bc9e118",
+    "driver_name": "Francisco Jose Escobar",
+    "vehicle_type": "XL",
+    "location": {
+      "latitude": 40.448267,
+      "longitude": -3.673671
+    },
+    "status": "busy",
+    "shift_start": 18,
+    "shift_duration": 8
+  },
+  {
+    "driver_id": "8c0cb68e-3735-4dbd-b5c7-57ef4e2a5aa0",
+    "driver_name": "Renata Luna Aguil\u00f3 Macias",
+    "vehicle_type": "Electric",
+    "location": {
+      "latitude": 40.482241,
+      "longitude": -3.736031
+    },
+    "status": "busy",
+    "shift_start": 18,
+    "shift_duration": 8
+  }
+]
