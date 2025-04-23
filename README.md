@@ -61,19 +61,19 @@ Develop a real-time analytics pipeline that processes ride-hailing events and ge
 4. **Run Spark Streaming pipeline**:
    - Use `Group_8_connection_to_Blob.ipynb` in Google Colab to process and store events.
 
-## 📈 Sample Analytics
+## 📈 Analytics Use Cases
 
-- **Basic**:
-  - Total rides, active/completed rides.
-  - Average driver response times.
+- **Basic Use Case**:
+  - Hourly Ride Metrics: total rides, average ETA to pickup, average fare, average traffic multiplier (tumbling window by hour).
 
-- **Intermediate**:
-  - Cancellation rates, customer satisfaction.
-  - Demand-supply matching in peak hours.
+- **Intermediate Use Case**:
+  - Demand-Supply Mismatch: compare rides requested vs. active drivers per hour.
+  - Passenger Satisfaction: average driver rating by hour.
 
-- **Advanced**:
-  - Surge pricing zone prediction.
-  - Fraud detection in ride requests.
+- **Advanced Use Case**:
+  - Surge Pricing & Anomaly Detection: flag unusually high-fare short trips under light traffic, map average surge multiplier by geo-grid.
+  - Driver Utilization & Workload: total rides served per driver, average ride distance, top 10 busiest drivers.
+  - Coverage Heatmap: 2D density map of driver locations across Madrid to spot hot/cold zones.
 
 ## 📝 Reflection Summary
 
@@ -82,6 +82,3 @@ Develop a real-time analytics pipeline that processes ride-hailing events and ge
 - Applied stream analytics to practical, business-relevant cases.
 
 ---
-
-Invite your instructor to the private GitHub repository for access to all project files and notebooks.
-
